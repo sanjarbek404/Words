@@ -1,0 +1,8 @@
+{
+  "name": "LinguaMaster",
+  "description": "Zamonaviy ingliz-o'zbek aqlli lug'at va so'zlarni yodlash ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
